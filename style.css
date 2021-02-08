@@ -1,0 +1,12 @@
+body {background-color: lightblue;}
+#h1 {text-align: center;}
+#image {
+width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+<ul> {margin-left: auto;
+      margin-right: auto;}
